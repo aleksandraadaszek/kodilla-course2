@@ -1,10 +1,10 @@
-package com.kodilla.kodillacourse2;
+package com.kodilla.kodilla2testing;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KodillaCourse2ApplicationTests {
+class Kodilla2TestingApplicationTests {
 
     @Test
     void contextLoads() {
